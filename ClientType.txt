@@ -1,0 +1,17 @@
+TypeName	TypeID
+Arts & Entertainment	1
+Bakery	2
+Bars & Clubs	3
+Business & Professional Services	4
+Coffee Shop	5
+Dispensaries	6
+Service	7
+Food & Beverage Retail	8
+Legal & Financial Services	9
+Medical Services	10
+Non Food & Beverage Retail	11
+Pet Services	12
+Restaurant	13
+Spas & Salons	14
+Sports & Recreation	15
+"Travel, Tourism & Lodging"	16
